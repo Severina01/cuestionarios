@@ -16,7 +16,11 @@ tarea de la universidad para el monografico
 
 |Tablas con Markdown|Aprendiendo Markdown|A ver si funciona|
 |--|--|--|
-|La mia|la tuya|la de los dos|
+|La mia 1|la tuya 5|la de los dos 9|
+|La mia 2|la tuya 6|la de los dos 10|
+|La mia 3|la tuya 7|la de los dos 11|
+|La mia 4|la tuya 8|la de los dos 12|
+
 
 
 
