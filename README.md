@@ -21,7 +21,7 @@ tarea de la universidad para el monografico
 |La mia 3|la tuya 7|la de los dos 11|
 |La mia 4|la tuya 8|la de los dos 12|
 
-
+![imagen](https://github.com/Severina01/cuestionarios/blob/master/palabras.jpg)
 
 
 
